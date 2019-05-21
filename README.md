@@ -12,6 +12,7 @@ This repository contains a set of simple sample projects to help you getting sta
 
 ## Prerequisites 
 
+
 1. To develop Service Fabric Reliable Services & Actor you need to use a [Mac](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-get-started-mac) or [Linux](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-get-started-linux) developer machine. 
 2. If you are developing Java applications that do not use the Reliable Services API provided by Service Fabric, you can develop in any environment. 
 
