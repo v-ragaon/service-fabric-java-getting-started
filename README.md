@@ -5,6 +5,7 @@ author: vturecek, raunakp, suhuruli
 ---
 
 
+
 # Getting started with Service Fabric with Java
 
 This repository contains a set of simple sample projects to help you getting started with Service Fabric on Linux using java as the development language. 
